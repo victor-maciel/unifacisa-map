@@ -1,5 +1,5 @@
 # unifacisa-p3
-Destinado as atividades da disciplina de Programação 3 na UNIFACISA. 
+Destinado as atividades da disciplina de Métodos Avançados de Programação (MAP) na UNIFACISA. 
 
 ## Sumario
 
