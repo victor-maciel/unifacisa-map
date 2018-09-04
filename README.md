@@ -23,4 +23,19 @@ Destinado as atividades da disciplina de Métodos Avançados de Programação (M
   
 ## Atividade 03 - Aplicação do Singleton
 
-  Aplicação do padrão singleton em uma classe
+  Conexão a um banco de dados usando o padrão singleton
+  
+ ===============================================================================
+  
+## Atividade 04 - Factory Method
+
+  Construir generalização de uma fabrica de carros, alterando montadoras e tipos de carro.
+  
+ ===============================================================================
+
+## Atividade 05 - AbstractFactory Method
+
+  Construir generalização de uma pizzaria, alterando os ingredientes.
+  
+*corrigir
+ ===============================================================================
