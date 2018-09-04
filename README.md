@@ -6,6 +6,13 @@ Destinado as atividades da disciplina de Métodos Avançados de Programação (M
 - Atividade 01 - Métodos Avançados de Programação - Auto Avaliação
 - Atividade 02 - Composição
 - Atividade 03 - Aplicação do Singleton
+- Atividade 04 - Factory Method
+- Atividade 05 - AbstractFactory Method
+- Atividade 06 - 
+- Atividade 07 - 
+- Atividade 08 - 
+- Atividade 09 - 
+- Atividade 10 - 
 
 ===============================================================================
 
@@ -38,4 +45,24 @@ Destinado as atividades da disciplina de Métodos Avançados de Programação (M
   Construir generalização de uma pizzaria, alterando os ingredientes.
   
 *corrigir
+ ===============================================================================
+ 
+ ## Atividade 06 - 
+
+ ===============================================================================
+  
+ ## Atividade 07 - 
+
+ ===============================================================================
+  
+ ## Atividade 08 - 
+
+ ===============================================================================
+  
+ ## Atividade 09 - 
+
+ ===============================================================================
+  
+ ## Atividade 10 - 
+
  ===============================================================================
